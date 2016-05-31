@@ -1,0 +1,5 @@
+# bundler path
+vendor/bundle
+
+# Mac
+.DS_Store
